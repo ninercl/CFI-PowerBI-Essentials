@@ -1,32 +1,51 @@
 # CFI-PowerBI-Essentials
 CFI Power BI Essentials final dashboard
 
-Retail Sales Dashboard – Power BI
-Dashboard desarrollado en Power BI para analizar datos de ventas de tiendas retail en Estados Unidos.
-Incluye KPIs, mapas, gráficos comparativos y filtros interactivos para explorar el desempeño por ubicación, departamento y tipo de tienda.
-Contenido del proyecto
+Retail Sales Dashboard (Power BI)
 
-•	Archivo principal: Retail_Sales_Dashboard.pbix
-•	Visualizaciones principales:
-o	KPIs de ventas (YTD, total y margen)
-o	Mapa interactivo por ubicación de tienda
-o	Gráfico Sankey por ubicación y departamento
-o	Comparación de ventas por tipo de tienda
-o	Tabla con formato condicional para seguimiento de objetivos
-o	Gráfico de dispersión para analizar tamaño de tienda y costos
+Dashboard desarrollado en Power BI para analizar el desempeño de ventas de tiendas retail en Estados Unidos.
+Incluye KPIs, mapas, gráficos comparativos y filtros interactivos.
 
-Objetivo
-Proveer una visión clara del desempeño de ventas considerando:
-•	Ubicación geográfica
-•	Departamento
-•	Tipo de tienda
-•	Rango de fechas
-Tecnologías utilizadas
-•	Power BI Desktop
-•	DAX para métricas
-•	Azure Maps / OSM
+📁 Archivo incluido
 
-Autor
+Retail_Sales_Dashboard.pbix — archivo principal del proyecto.
+
+📊 Visualizaciones principales
+
+KPIs de ventas (YTD, Total Sales, Gross Margin)
+
+Mapa de ventas por ubicación
+
+Gráfico Sankey: ubicación → departamento
+
+Comparación de ventas por tipo de tienda
+
+Tabla con formato condicional (diferencia contra objetivo)
+
+Gráfico de dispersión: tamaño de tienda vs costo
+
+🎯 Objetivo del dashboard
+
+Permitir un análisis rápido y visual del desempeño de ventas por:
+
+Ubicación
+
+Departamento
+
+Tipo de tienda
+
+Rango de fechas
+
+🛠️ Tecnologías utilizadas
+
+Power BI Desktop
+
+DAX
+
+Azure Maps / OSM
+
+✍️ Autor
+
 Rodrigo Arriaza Rojas
 
 
